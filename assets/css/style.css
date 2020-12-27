@@ -1637,7 +1637,6 @@ header {
   }
   .news-area .news-button-area .btn {
     padding: 0 3.2rem;
-    padding-top: 1.6rem;
     margin: 0 0.5rem;
   }
 }
@@ -1719,7 +1718,6 @@ header {
   }
   .news-area .news-button-area .btn {
     padding: 0 3.2rem;
-    padding-top: 1.6rem;
     margin: 0 0.5rem;
   }
 }
@@ -1802,8 +1800,7 @@ header {
     font-size: 1.4rem;
   }
   .news-area .news-button-area .btn {
-    padding: 0 3.2rem;
-    padding-top: 1.6rem;
+    padding: 0 0rem;
     margin: 0 0.5rem;
   }
   .heading {
